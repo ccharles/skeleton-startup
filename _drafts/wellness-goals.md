@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Wellness goals
 date: 2015-02-13 16:16:00
 categories: wellness goal

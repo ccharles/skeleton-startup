@@ -1,5 +1,4 @@
 ---
-layout: post
 title: My "entrepreneurship" mental block
 date: 2015-02-13 16:16:00
 categories: entrepreneurship
