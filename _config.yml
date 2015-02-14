@@ -18,3 +18,5 @@ defaults:
       path: ""
     values:
       layout: post
+
+permalink: pretty
