@@ -6,6 +6,14 @@ title: About
 
 My name is Chris, and I'm going to launch a product-based startup in 2015.
 
-I've never founded a startup before. As I write this in mid-February, I don't know what problem I'm going to be solving, or who my cofounders will be. I don't even know which industry I'll be trying to improve.
+I'll be blogging about the process here, and I invite you to follow along. I have no doubt that this will be both exhilirating and terrifying. I expext to share victories and defeats with you, and I'll also give you a look at the process of building a startup.
 
-As I go through the process of finding a cofounder, analyzing problems and testing possible solutions, gathering customer feedback, pivoting, marketing, and selling, I'll be writing.
+## What's with the name? ##
+
+The Skeleton Startup is inspired by [skeleton watches][1]:
+
+> A **skeleton watch** is a mechanical watch (although occasionally quartz), in which all of the moving parts are visible through either the front of the watch, the back of the watch or a small cut outlining the dial.
+
+I intend to give you a similar view into my startup as I build it. Through this blog, you should get a glimpse of "all the moving parts". Some parts will be almost fully visible, while others may be mostly hidden.
+
+[1]: http://en.wikipedia.org/wiki/Skeleton_watch
