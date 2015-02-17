@@ -17,6 +17,7 @@ defaults:
   - scope:
       path: ""
     values:
+      author: Chris
       layout: post
 
 permalink: pretty
