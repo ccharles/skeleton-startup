@@ -1,14 +1,13 @@
 # Site settings
 title: The Skeleton Startup
-email: your-email@domain.com
+email: ~
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Join me as I to build a product-based startup in 2015. Share the highs, share
+  the lows, and see how this works from the inside out.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "http://skeletonstartup.ca" # the base hostname & protocol for your site
+twitter_username: ChrisUnfiltered
+github_username: ccharles
 
 # Build settings
 markdown: kramdown
