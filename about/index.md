@@ -10,10 +10,10 @@ I'll be blogging about the process here, and I invite you to follow along. I hav
 
 ## What's with the name? ##
 
-The Skeleton Startup is inspired by [skeleton watches][1]:
+The name "Skeleton Startup" is inspired by [skeleton watches][1]:
 
 > A **skeleton watch** is a mechanical watch (although occasionally quartz), in which all of the moving parts are visible through either the front of the watch, the back of the watch or a small cut outlining the dial.
 
-I intend to give you a similar view into my startup as I build it. Through this blog, you should get a glimpse of "all the moving parts". Some parts will be almost fully visible, while others may be mostly hidden.
+I intend to give you a similar view into my startup as I build it. Through this blog, you should get a glimpse of "all of the moving parts". Some parts will be almost fully visible, while others may be mostly hidden.
 
 [1]: http://en.wikipedia.org/wiki/Skeleton_watch
