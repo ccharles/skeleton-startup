@@ -1,7 +1,6 @@
 ---
 title: Bookshelf
 layout: page
-date: 2015-02-14 16:44:00
 categories: book
 
 ---
