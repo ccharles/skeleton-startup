@@ -6,7 +6,7 @@ title: About
 
 My name is Chris, and I'm going to launch a product-based startup in 2015.
 
-I'll be blogging about the process here, and I invite you to follow along. I have no doubt that this will be both exhilirating and terrifying. I expext to share victories and defeats with you, and I'll also give you a look at the process of building a startup.
+I'll be blogging about the process here, and I invite you to follow along. I have no doubt that this will be both exhilarating and terrifying. I expect to share victories and defeats with you, and I'll also give you a look at the process of building a startup.
 
 ## What's with the name? ##
 
