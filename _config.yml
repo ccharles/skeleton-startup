@@ -1,11 +1,11 @@
 # Site settings
-title: The Skeleton Startup
+title: ccharles.ca
 email: ~
 description: > # this means to ignore newlines until "baseurl:"
   Join me as I to build a product-based startup in 2015. Share the highs, share
   the lows, and see how this works from the inside out.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://skeletonstartup.ca" # the base hostname & protocol for your site
+url: "http://www.ccharles.ca" # the base hostname & protocol for your site
 twitter_username: ChrisUnfiltered
 github_username: ccharles
 
